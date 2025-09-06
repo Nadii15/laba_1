@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Xml.Linq;
 
 namespace Program {
     class Program {
@@ -29,11 +30,40 @@ namespace Program {
             //float iFloat = 4.3F;
             //decimal iDecimal = 3.4m;
             //object fdf = 4;
-          
+
             //var name = " Dfs";
 
-            d
 
+
+            //Console.WriteLine("Введите ваше имя: ");
+            //string name = Console.ReadLine();
+            //Console.WriteLine($"Привет,{name}");
+
+            //Console.WriteLine("Введите ваш возраст: ");
+            //int age = int.Parse(Console.ReadLine());
+            //Console.WriteLine($"Через год тебе будет {age +1 }");
+
+            //Задание 1
+            //string Anime = "Onepic";
+            //Console.WriteLine($"Ваше любимое аниме - {Anime}");
+            //int number = 20;
+            //Console.WriteLine($"Ваша любимая цифра - {number}");
+            //double ni = 3.14;
+            //Console.WriteLine($"Значение числа пи - {ni}");
+            //string alphabit = "М";
+            //Console.WriteLine($"Ваша любимая буква алфавита - {alphabit}");
+
+            //Задание 2
+            //string Str = "I need more power!";
+            //Console.WriteLine($"{Str}");
+            //Console.WriteLine($"{Str}");
+            //Console.WriteLine($"{Str}");
+            //Console.WriteLine($"{Str}");
+
+            //Задание 3
+             {
+                
+            }
         }
     }
 }
