@@ -63,7 +63,15 @@ namespace Program {
             //Задание 3
             //Console.WriteLine("\"Hello There\"");
 
+            //Задание 4
+            //int monitor = Convert.ToInt32(Console.ReadLine());
+            //int mous = Convert.ToInt32(Console.ReadLine()); 
+            //int blok = Convert.ToInt32(Console.ReadLine());
+            //int klava = Convert.ToInt32(Console.ReadLine());
+            //int sum = monitor + mous+ blok + klava;
+            //Console.WriteLine(sum * 3);
 
+            
         }
     }
 }
