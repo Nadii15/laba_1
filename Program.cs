@@ -61,9 +61,9 @@ namespace Program {
             //Console.WriteLine($"{Str}");
 
             //Задание 3
-             {
-                
-            }
+            //Console.WriteLine("\"Hello There\"");
+
+
         }
     }
 }
