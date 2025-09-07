@@ -78,7 +78,14 @@ namespace Program {
             //Console.WriteLine($"Сейчас тебе {age}.");
             //Console.WriteLine($"В слеующем году тебе будет {age +1}");
 
-           
+            //Задание 5 
+
+            //double a = Convert.ToInt32(Console.ReadLine());
+            //double b = Convert.ToInt32(Console.ReadLine());
+            //double  uravn = 3 * Math.Pow(a +b,3) + 275 * Math.Pow(b,2) - 127 * a - 41;
+            //Console.WriteLine(uravn);
+
+            
         }
     }
 }
