@@ -71,7 +71,14 @@ namespace Program {
             //int sum = monitor + mous+ blok + klava;
             //Console.WriteLine(sum * 3);
 
-            
+            //Задание 6
+            //string name = Console.ReadLine();
+            //int age = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine($"Ваше имя,{name}!");
+            //Console.WriteLine($"Сейчас тебе {age}.");
+            //Console.WriteLine($"В слеующем году тебе будет {age +1}");
+
+           
         }
     }
 }
