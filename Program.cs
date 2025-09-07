@@ -72,7 +72,7 @@ namespace Program {
             //Console.WriteLine(sum * 3);
 
             //Задание 6
-            //string name = Console.ReadLine();
+            //string name =  Console.ReadLine();
             //int age = Convert.ToInt32(Console.ReadLine());
             //Console.WriteLine($"Ваше имя,{name}!");
             //Console.WriteLine($"Сейчас тебе {age}.");
@@ -85,11 +85,17 @@ namespace Program {
             //double  uravn = 3 * Math.Pow(a +b,3) + 275 * Math.Pow(b,2) - 127 * a - 41;
             //Console.WriteLine(uravn);
 
-            ////Задание 7 
+            //Задание 7 
             //string name = Console.ReadLine();
             //int age = Convert.ToInt32(Console.ReadLine());
             //string citi = Console.ReadLine();
             //Console.WriteLine($"Привет, {name}!Тебе {age} лет и ты живёшь в городе {citi}.");
+
+            //Задание 8
+            //double C = Convert.ToDouble(Console.ReadLine());
+            //double F = ((C * 9) / 5) + 32;
+            //Console.WriteLine(F);
         }
+
     }
 }
